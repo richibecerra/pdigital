@@ -1,6 +1,6 @@
 # pdurosario-161-ActiBikes
 
-# Descripcion del reto: 
+# Descripcion: 
 Mejora de la movilidad en el sector de La Candelaria mediante préstamo de bicicletas
 
 ## Integrantes
